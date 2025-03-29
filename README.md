@@ -12,8 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi, I'm Your Name! 👋</h1>
-<h3 align="center">A passionate Android Developer from [Your Country]</h3>
+<h1 align="center">Hi, I'm Vishal Verma! 👋</h1>
+<h3 align="center">A passionate Software Engineer from India.</h3>
+<h4 align="center">I’m interested in Real World Problem Solving.</h4>
 
 ---
 
@@ -31,18 +32,18 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsvermavishal&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvermavishal&layout=compact&theme=dark" height="150"/>
 </p>
 
 ---
 
 ### 🔗 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/mrvishalverma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
+  <a href="https://github.com/itsvermavishal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
