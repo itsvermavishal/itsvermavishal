@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔗 Connect with Me:
 <p align="left">
-  <a href="www.linkedin.com/in/itsvermavishal" target="_blank">
+  <a href="https://www.linkedin.com/in/itsvermavishal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/itsvermavishal" target="_blank">
