@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/itsvermavishal/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LeetCode-itsvermavishal-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
   <a href="mailto:vishalpbh022@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
