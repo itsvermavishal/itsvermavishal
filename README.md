@@ -119,6 +119,7 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsvermavishal&theme=tokyonight&no-frame=true&row=1)
+![hyochan GitHub stats](https://server.dooboo.io/github-stats/itsvermavishal)
 
 <!--## 📚 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
