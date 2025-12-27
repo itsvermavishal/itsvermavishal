@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A Passionate Software Engineer | Android & Backend Developer | Open Source Contributor</h3>
 <h4 align="center">I’m interested in Real World Problem Solving.</h4>
 
-Get in Touch : 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsvermavishhal&label=Profile%20Views&color=0e75b6&style=flat" alt="itsvermavishal" />
