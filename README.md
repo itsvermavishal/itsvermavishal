@@ -106,6 +106,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧮 Contribution Summary
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsvermavishal&theme=dark)](https://git.io/streak-stats)
+
 | Metric | Count |
 |------|------|
 | ⭐ Total Repositories | ![Repos](https://badgen.net/github/repos/itsvermavishal) |
