@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 🔹 Passionate about **open-source contributions and problem-solving**.  
 🔹 Currently working on **exciting projects using Kotlin, Java, Python & DevOps tools**.  
 
-📫 **How to reach me:** [Email](vishalpbh022@gmail.com) | [LinkedIn](https://linkedin.com/in/itsvermavishal)  
+📫 **How to reach me:** [Email](mailto:vishalpbh022@gmail.com) | [LinkedIn](https://linkedin.com/in/itsvermavishal)  
 
 ---
 
