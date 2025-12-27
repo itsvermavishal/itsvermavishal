@@ -89,13 +89,39 @@ You can click the Preview link to take a look at your changes.
 </p>
 ---
 
-## 📈 **GitHub Stats & Contributions**  
+## 📈 GitHub Stats & Contributions  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsvermavishal&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsvermavishal&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvermavishal&layout=compact&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsvermavishal&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=itsvermavishal&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvermavishal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsvermavishal&theme=tokyo-night&hide_border=true)
+
+
+## 🧮 Contribution Summary
+
+| Metric | Count |
+|------|------|
+| ⭐ Total Repositories | ![Repos](https://badgen.net/github/repos/itsvermavishal) |
+| 🔀 Pull Requests | ![PRs](https://badgen.net/github/prs/itsvermavishal) |
+| 🐞 Issues Opened | ![Issues](https://badgen.net/github/issues/itsvermavishal) |
+| 📦 Stars Earned | ![Stars](https://badgen.net/github/stars/itsvermavishal) |
+| 👥 Followers | ![Followers](https://badgen.net/github/followers/itsvermavishal) |
+
+
+## 🏆 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=itsvermavishal&theme=tokyonight&no-frame=true&row=1&column=7)
+
+
+
 
 ---
 
