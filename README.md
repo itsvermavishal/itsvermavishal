@@ -90,8 +90,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 📈 GitHub Stats & Contributions  
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsvermavishal&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvermavishal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
