@@ -119,9 +119,3 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:vishalpbh022@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</p>
-  <a href="https://github.com/itsvermavishal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
