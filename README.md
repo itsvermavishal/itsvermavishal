@@ -106,9 +106,10 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsvermavishal&theme=dark)](https://git.io/streak-stats)
 
-| Metric | Count | |------|------|
-| ⭐ Total Repositories | ![Repos](https://badgen.net/github/repos/itsvermavishal) | 
-| 🔀 Pull Requests | ![PRs](https://badgen.net/github/prs/itsvermavishal) | 
+| Metric | Count |
+|------|------|
+| ⭐ Total Repositories | ![Repos](https://badgen.net/github/repos/itsvermavishal) |
+| 🔀 Pull Requests | ![PRs](https://badgen.net/github/prs/itsvermavishal) |
 | 🐞 Issues Opened | ![Issues](https://badgen.net/github/issues/itsvermavishal) |
 | 📦 Stars Earned | ![Stars](https://badgen.net/github/stars/itsvermavishal) |
 
@@ -120,8 +121,6 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsvermavishal&theme=tokyonight&no-frame=true&row=1)
-
----
 
 <!--## 📚 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
