@@ -87,7 +87,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
   <img src="https://img.shields.io/badge/App_Deployment-0A66C2?style=for-the-badge"/> 
 </p>
----
 
 ## 📈 GitHub Stats & Contributions  
 
@@ -113,14 +112,11 @@ You can click the Preview link to take a look at your changes.
 | 🔀 Pull Requests | ![PRs](https://badgen.net/github/prs/itsvermavishal) |
 | 🐞 Issues Opened | ![Issues](https://badgen.net/github/issues/itsvermavishal) |
 | 📦 Stars Earned | ![Stars](https://badgen.net/github/stars/itsvermavishal) |
-| 👥 Followers | ![Followers](https://badgen.net/github/followers/itsvermavishal) |
 
 
 ## 🏆 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=itsvermavishal&theme=tokyonight&no-frame=true&row=1&column=7)
-
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsvermavishal&theme=tokyonight&no-frame=true&row=1)
 
 
 ---
